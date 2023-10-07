@@ -1,0 +1,51 @@
+.ppp{
+  font-size: 25px;
+  margin: 0%;
+  padding: 0%;
+}
+h2{
+background-color: aqua;
+display: inline-block
+}
+
+.skills{
+  color: rgb(38, 86, 128);
+  font-size: 25px;
+  background-color: aquamarine;
+  border-color: black;
+  display:inline-block;
+}
+.contact{
+font-size: 30px;
+}
+.lang{
+  font-size: 40px;
+  font-style: italic;
+ background-color: aqua;
+display: inline-block;
+margin-bottom: 5%;
+}
+
+
+.h1{
+  font-size: 40px;
+  color: blue;
+  background-color: aqua;
+  display: inline-block;
+   padding: 0%;
+   margin: 0%;
+}
+img{
+ height: 350px;
+ width: 350px;
+ border-radius: 100%;
+border-color: rgb(59, 59, 191);
+margin: bottom 10%;
+border-style: solid;
+
+}
+
+
+
+
+/* Add more CSS styling as needed */
